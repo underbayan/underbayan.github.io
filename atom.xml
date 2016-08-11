@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://underbayan.github.io/"/>
-  <updated>2016-08-11T06:10:39.000Z</updated>
+  <updated>2016-08-11T08:28:35.000Z</updated>
   <id>https://underbayan.github.io/</id>
   
   <author>
@@ -14,6 +14,120 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>css secret</title>
+    <link href="https://underbayan.github.io/2016/08/11/css-secret/"/>
+    <id>https://underbayan.github.io/2016/08/11/css-secret/</id>
+    <published>2016-08-11T08:27:45.000Z</published>
+    <updated>2016-08-11T08:28:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div><div class="line">110</div><div class="line">111</div><div class="line">112</div><div class="line">113</div><div class="line">114</div><div class="line">115</div><div class="line">116</div><div class="line">117</div><div class="line">118</div><div class="line">119</div><div class="line">120</div><div class="line">121</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span></div><div class="line"><span class="comment">&lt;!-- saved from url=(0057)file:///Users/laina/Documents/common/demo/cssSsecret.html --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">class</span>=<span class="string">"lineargradients"</span>&gt;</span><span class="tag">&lt;<span class="name">head</span> <span class="attr">lang</span>=<span class="string">"en"</span>&gt;</span><span class="tag">&lt;<span class="name">meta</span> <span class="attr">http-equiv</span>=<span class="string">"Content-Type"</span> <span class="attr">content</span>=<span class="string">"text/html; charset=UTF-8"</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">"UTF-8"</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span><span class="tag">&lt;/<span class="name">title</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">style</span>&gt;</span><span class="undefined"></span></div><div class="line">        * &#123;</div><div class="line">            text-align: center;</div><div class="line">        &#125;</div><div class="line"></div><div class="line">        div &#123;</div><div class="line">            width: 145px;</div><div class="line">            height: 50px;</div><div class="line">            border: 1px solid #333333;</div><div class="line">            background: #335166;</div><div class="line">            color:#fff;</div><div class="line">            padding: 5px;</div><div class="line">            word-break: break-all;word-wrap: break-word;</div><div class="line">            line-height: 50px;</div><div class="line">            display: inline-block;</div><div class="line">            float: left;</div><div class="line">            margin-top:30px ;</div><div class="line">            margin-left:30px;</div><div class="line"></div><div class="line">        &#125;</div><div class="line">    <span class="tag">&lt;/<span class="name">style</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line"></div><div class="line"><span class="comment">&lt;!-- &lt;h1&gt;gradient demo&lt;/h1&gt; --&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(90deg,yellow,red);border-radius: 20px"</span>&gt;</span>90deg gradient<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background:#333333 linear-gradient(0deg,yellow,red);"</span>&gt;</span>0deg gradient<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(45deg,yellow,red);"</span>&gt;</span>45deg gradient<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(-45deg,yellow,red);"</span>&gt;</span>-45deg gradient<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(#fb3 ,#58a)"</span>&gt;</span>vertical<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(#fb3  20%,#58a 80%)"</span>&gt;</span>20% 80%<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(#fb3  50%,#58a 50%)"</span>&gt;</span>50% 50%<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(#fb3  10%,#58a 10%)"</span>&gt;</span>10% 10%<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(#fb3  80%,#58a 90%) "</span>&gt;</span>80% 90%<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(#fb3  80%,#58a 90%) no-repeat;background-size:100% 50%  "</span>&gt;</span>80% 90%  and no repeat<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(#fb3  30%,#58a 30%);background-size:100% 30px  "</span>&gt;</span>50% 50%<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(90deg ,#fb3 30%,#58a 0 ,#58a 30%,greenyellow 0,dodgerblue 10%);background-size:40px  100%  "</span>&gt;</span>vertical<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(45deg,#fb3  25%,#58a 0,#58a 50%,#fb3 0,#fb3 75%,#58a 0);background-size:30px 30px  "</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(45deg,#fb3  25%,#58a 0);background-size:30px 30px  "</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: #335166 linear-gradient(90deg,#fb3  1px,transparent 0);background-size:30px 30px  "</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(-45deg,#fb3  25%,transparent 0,transparent 50%,#fb3 0,#fb3 75%,transparent 0),linear-gradient(45deg,transparent  25%,#58a 0,#58a 50%,transparent 0,transparent 75%,#58a 0) ;background-size:30px 30px  "</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: linear-gradient(-45deg,#fb3  25%,transparent 0,transparent 50%,#fb3 0,#fb3 75%,transparent 0) no-repeat ,linear-gradient(45deg,transparent  25%,#58a 0,#58a 50%,transparent 0,transparent 75%,#58a 0) no-repeat ;background-size:30px 30px ,60px 60px  "</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background:#335166 radial-gradient( tan 30% ,transparent 0);background-size: 30px 30px"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"><span class="comment">&lt;!-- &lt;h1&gt;boxshadow and text shadow&lt;/h1&gt; --&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background:green;box-shadow: 0 5px 5px gray;"</span>&gt;</span>box-showdow<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background:green;text-shadow: 0 -2px 3px #335166;"</span>&gt;</span>text-showdow<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"border-radius: 0.8em;box-shadow: 0 0 0 .6em #655;"</span>&gt;</span>box shadow<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"height:30px;border-radius: 1.8em;border: solid .6em #655;"</span>&gt;</span>border occupy the content size<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"margin-top:30px;background: green;box-shadow:0 0 0 10px darkgreen,0 0 0 15px deeppink,0 2px 5px  15px rgba(0,0,0,.6)"</span>&gt;</span></div><div class="line">    shadow  wrap the  border and innershadow</div><div class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"><span class="comment">&lt;!-- &lt;h1&gt;background&lt;/h1&gt; --&gt;</span></div><div class="line"><span class="comment">&lt;!-- &lt;p&gt;use the shorthand wisely,shorthand will always give you the effect&lt;/p&gt; --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;)no-repeat top right rebeccapurple "</span>&gt;</span>back ground align<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background-color: rebeccapurple;background:url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;) bottom 20px left 10px "</span>&gt;</span></div><div class="line"></div><div class="line">     postion  identify with pixel length</div><div class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background-color: rebeccapurple;background:url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;) bottom left / 450px 50px ;"</span>&gt;</span> identify the  background size<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"><span class="comment">&lt;!-- &lt;h1&gt;border&lt;/h1&gt; --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"border-width: 10px 10px 0 10px ;box-shadow: 0 5px 5px gray;"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"border-radius: 1.8em;border: solid .2em #655;"</span>&gt;</span>border<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"></div><div class="line"><span class="comment">&lt;!-- &lt;p&gt;by defalt the backgournd extend to the border  ,but  the img  also  influence the layout&lt;/p&gt; --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;)no-repeat top right rebeccapurple ;border: 10px dotted #ff0000"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;)no-repeat  rebeccapurple ;border: 10px dotted #ff0000"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;)no-repeat  rebeccapurple ;border: 10px dotted #ff0000;"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background-color: rebeccapurple;background:url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;) bottom left / 250px 50px ;border: 10px dotted #ff0000"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="comment">&lt;!-- &lt;p&gt;using clip to make the backgorund not extend underneath the border&lt;/p&gt; --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: url(&amp;#39;http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;)no-repeat  rebeccapurple ;border: 10px dotted #ff0000;background-clip: padding-box"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="comment">&lt;!-- &lt;p&gt;using  the calc&lt;/p&gt; --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: lightseagreen url(&amp;#39;./http://cdn.code.baidu.com/imgs/angular.js.png&amp;#39;);background-position: calc(100% - 14px) calc(100% - 24px)"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="comment">&lt;!-- &lt;h1&gt;outline&lt;/h1&gt; --&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: yellowgreen;border-radius: 15px;outline: 15px salmon solid;outline-offset: 3px"</span>&gt;</span> outline  not fit the border radius<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"border-radius: 0.8em ;padding: 1em"</span>&gt;</span>outline will gets along with my rounds<span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="javascript"></span></div><div class="line">    <span class="comment">//you can use the modernizr tool  ,to judge the broser if suuport it by using @supports()</span></div><div class="line"></div><div class="line"></div><div class="line">    <span class="comment">//judge if the style  exist</span></div><div class="line">    <span class="keyword">if</span> (<span class="string">'testShadow'</span> <span class="keyword">in</span> <span class="built_in">document</span>.documentElement.style) &#123;</div><div class="line">        <span class="built_in">document</span>.documentElement.classList.add(<span class="string">'textshadow'</span>)</div><div class="line">    &#125;</div><div class="line">    <span class="comment">//judge the property</span></div><div class="line">    <span class="keyword">var</span> dummy = <span class="built_in">document</span>.createElement(<span class="string">'p'</span>)</div><div class="line">    dummy.style.backgroundImage = <span class="string">'linear-gradient(red,tan)'</span>;</div><div class="line">    <span class="keyword">if</span> (dummy.style.backgroundImage)</div><div class="line">        <span class="built_in">document</span>.documentElement.classList.add(<span class="string">'lineargradients'</span>)</div><div class="line"></div><div class="line"><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"height:auto;line-height: 3;"</span>&gt;</span><span class="tag">&lt;<span class="name">span</span>&gt;</span>fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff<span class="tag">&lt;/<span class="name">span</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span><span class="tag">&lt;/<span class="name">html</span>&gt;</span></div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>this</title>
+    <link href="https://underbayan.github.io/2016/08/11/this/"/>
+    <id>https://underbayan.github.io/2016/08/11/this/</id>
+    <published>2016-08-11T08:26:05.000Z</published>
+    <updated>2016-08-11T08:26:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<pre>javascript 的this 详解
+
+this 的取值 取决于函数调用的模式
+
+函数调用的模式一共有四种：
+
+    方法调用模式
+
+        形式：className.method()
+
+        this：this的值为该class
+
+    函数调用模式
+
+        形式：functionName()
+
+        this: 在js语言设计当中，这里的this的值是一个语言缺陷，this的值被设置为所处环境的全局变量，在浏览器中是windows，在nodejs中是global
+
+              var A={}
+              A.b=function(){
+                  var c=function(){
+                      console.log(this)};
+                      c();
+              }// 这里的this的值为 windows
+
+              A.b=function(){
+                  var that=this;
+                  var c=function(){
+                      console.log(that)};
+                      c()；
+              }//这里的值为A.b这个函数对象
+
+              A.b=function(){
+                var c=function(ar){
+                    var d=function(ar){
+                        console.log(this+ar)
+                    };
+                    d('d');
+                    console.log(this+ar)
+                };
+                c('c');
+            }
+             //这里的两次this仍然是windows
+
+
+    构造器调用模式
+
+        形式：var newObjectName=new ClassName(); newObjectName.method()
+
+        this：this的值绑定在新产生的对象上
+
+    apply调用模式
+
+        形式：method.apply(obj,arg)
+
+        this：this的值绑定在obj上，arg为参数数组可以，可以作为method的函数的输入参数
+
+什么时候我们需要使用this？
+
+    在绝大数的情况下我们不使用this 关键字作为需要声明或者定义的属性的前缀。我们只有在需要引用函数或者对象中的属性的时候才会使用到this
+
+
+
+</pre>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;javascript 的this 详解
+
+this 的取值 取决于函数调用的模式
+
+函数调用的模式一共有四种：
+
+    方法调用模式
+
+        形式：className.method()
+
+        this：this的值为该class
+
+    函数调
+    
+    </summary>
+    
+    
+      <category term="javascript" scheme="https://underbayan.github.io/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>polar coodinates uvs mapping of ThreeJs SphereBufferGeometry</title>
