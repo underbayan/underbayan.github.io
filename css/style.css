@@ -1113,7 +1113,7 @@ a {
   text-align: right;
   position: absolute;
   right: 0;
-  top: 23px;
+  bottom: 23px;
   text-align: center;
   z-index: 1;
 }
