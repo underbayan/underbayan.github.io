@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://underbayan.github.io/"/>
-  <updated>2016-08-11T07:45:53.000Z</updated>
+  <updated>2016-08-11T06:10:39.000Z</updated>
   <id>https://underbayan.github.io/</id>
   
   <author>
@@ -14,26 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>SVG+REACT to make amazing dashboard by hfsun</title>
-    <link href="https://underbayan.github.io/2016/08/11/SVG-REACT-to-make-amazing-dashboard-by-hfsun/"/>
-    <id>https://underbayan.github.io/2016/08/11/SVG-REACT-to-make-amazing-dashboard-by-hfsun/</id>
-    <published>2016-08-11T06:13:20.000Z</published>
-    <updated>2016-08-11T07:45:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<iframe src="./galleryhtml" width="800" height="800" frameborder="0" allowfullscreen></iframe>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;iframe src=&quot;./galleryhtml&quot; width=&quot;800&quot; height=&quot;800&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>polar coodinates uvs mapping of ThreeJs SphereBufferGeometry</title>
